@@ -9,11 +9,15 @@ import SwiftUI
 
 @main
 struct BeProductiveApp: App {
+    
+    @StateObject var listViewModel: ListViewModel = ListViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            NavigationView {
+            NavigationStack {
                 ListView()
             }
+            .environmentObject(ListViewModel())
         }
     }
 }
