@@ -35,11 +35,3 @@ It helps users stay organized and productive through an intuitive interface that
 - Building universal layouts compatible with iPhone & iPad  
 
 ---
-
-## 🖼️ Screenshots
-
-| Home View | Dark Mode | iPad Layout |
-|:----------:|:----------:|:-----------:|
-| <img src="Assets/home-light.png" width="250"> | <img src="Assets/home-dark.png" width="250"> | <img src="Assets/ipad.png" width="250"> |
-
----
